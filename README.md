@@ -14,7 +14,8 @@ This configuration includes:
 - **Data Link Communications:** Fully functional **CPDLC & DCL**.  
 - **Custom Maps:** Tailored maps for **runways, extended centerlines, CTR, CTA, TMA, SIV, MRVA, ACC**, and **SID/STAR/Procedures (coming soon)**, dynamically adjusting based on selected runways and zoom levels.  
 - **MRVA & MSAW Definitions:** Accurately implemented within the **TopSky environment**.  
-- **Realistic Settings:** Adjusted to match real-world references and display configurations.  
+- **Realistic Settings:** Adjusted to match real-world references and display configurations.
+-  **DelHel Configuration:** Fully set up for all airports with published **IFR procedures**, incorporating **published initial climbs or MSA** where applicable.  
 
 Additionally, this package ensures compatibility with **CoFrance**, maintaining its **airspace definition levels** and **specific tag items** while integrating them into the **TopSky format** where possible.  
 

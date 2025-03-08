@@ -1,0 +1,261 @@
+TAGS
+TAGFAMILY:TopSky CoFrance
+TAGTYPE:0:3:1
+TAGITEM:107::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:15::1:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:1:11:1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:169::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:212::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:42::0:1:0:0::0:1:::1
+TAGITEM:19::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:201::0:0:32:5:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:11::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:43::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:167::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:3::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:79::0:1:0:0:TopSky plugin:0:0:::8
+TAGTYPE:2:12:1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:0:15:12:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:47::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:2:TopSky plugin:0:1:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:42::0:1:871:0::0:1:CCAMS::1
+TAGITEM:19::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:38::0:1:2:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:6:0:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:201::0:0:32:5:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:120::0:1:59:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:9::0:1:500:0:CoFrance:0:1:CoFrance::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:39:39:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:43::0:1:12:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:120::0:1:45:14:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:5::0:0:26:0:CoFrance:0:1:::1
+TAGITEM:28::0:1:22:21::0:1:::1
+TAGITEM:79::0:1:1001:2:TopSky plugin:0:1:TopSky plugin::1
+TAGTYPE:3:0:0
+TAGITEM:16::1:1:0:0:TopSky plugin:0:1:::0
+TAGTYPE:4:3:1
+TAGITEM:107::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:15::1:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:5:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:0:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:39:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:67::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:79::0:1:7:0:TopSky plugin:0:1:::1
+TAGTYPE:6:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:6:32:TopSky plugin:0:1:TopSky plugin::9
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::9
+TAGITEM:70::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:270::0:0:17:0:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:19:0::0:1:::1
+TAGITEM:38::0:1:2:0:TopSky plugin:0:1:TopSky plugin::1
+TAGTYPE:7:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:0:0:TopSky plugin:0:1:::0
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:8:0:0
+TAGITEM:16::1:1:0:0:TopSky plugin:0:1:::0
+TAGTYPE:9:0:0
+TAGITEM:16::1:1:0:0:TopSky plugin:0:1:::0
+TAGTYPE:10:1:0
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:15::1:0:0:39:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:11:1:0
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:15::1:0:0:39:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:12:2:0
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:143::1:1:33:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:39:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:13:1:0
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:15::1:0:0:39:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:14:1:0
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:15::1:0:0:39:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:15:2:0
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:143::1:1:33:0:TopSky plugin:0:1:::0
+TAGITEM:1:@:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:6:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:39:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:16:11:1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:212::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:42::0:1:0:0::0:1:::1
+TAGITEM:19::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:201::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:11::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:43::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:54::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:3::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:79::0:1:0:0:TopSky plugin:0:0:::8
+TAGTYPE:17:12:1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:0:15:15:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:47::0:1:135:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:67::0:1:0:2:TopSky plugin:0:1:::1
+TAGITEM:90::0:1:41:0::0:1:::1
+TAGITEM:42::0:1:871:0::0:1:CCAMS::1
+TAGITEM:19::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:38::0:1:29:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:6:0:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:66::0:1:20:0:TopSky plugin:0:1:::1
+TAGITEM:120::0:1:59:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:9::0:1:500:0:CoFrance:0:1:CoFrance::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:39:39:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:43::0:1:12:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:54::0:1:45:14:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:5::0:0:26:0:CoFrance:0:1:::1
+TAGITEM:28::0:1:22:21::0:1:::1
+TAGITEM:79::0:1:1001:2:TopSky plugin:0:1:TopSky plugin::1
+TAGTYPE:18:5:1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:38::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:42::0:0:0:0::0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:71::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:44::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:44::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:79::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:32::0:0:0:0::0:1:::1
+TAGITEM:31::0:1:0:0::0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:34::0:1:0:0::0:1:::1
+TAGITEM:38::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:19:5:1
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:38::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:42::0:1:0:0::0:1:::1
+TAGITEM:65::0:1:25:0::0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:6:0:TopSky plugin:0:1:TopSky plugin::0
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:69::0:1:0:5:TopSky plugin:0:1:::1
+TAGITEM:71::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:39:39:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:67::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:44::0:1:10:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:2:TopSky plugin:0:1:::1
+TAGITEM:44::0:1:0:3:TopSky plugin:0:1:::1
+TAGITEM:79::0:1:7:4:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:43::0:0:12:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:149::0:1:26:0:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:15:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:56::0:1:16:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:54::0:0:14:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:38::0:1:29:2:TopSky plugin:0:1::TopSky plugin:1
+TAGTYPE:20:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:6:32:TopSky plugin:0:1:TopSky plugin::9
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::9
+TAGITEM:70::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:270::0:0:17:0:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:19:0::0:1:::1
+TAGITEM:38::0:1:2:0:TopSky plugin:0:1:TopSky plugin::1
+TAGTYPE:21:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:6:32:TopSky plugin:0:1:TopSky plugin::9
+TAGITEM:58::0:0:32:0:TopSky plugin:0:1:::9
+TAGITEM:70::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:270::0:0:17:0:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:19:0::0:1:::1
+TAGITEM:38::0:1:2:0:TopSky plugin:0:1:TopSky plugin::1
+TAGTYPE:22:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:0:0:TopSky plugin:0:1:::0
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:23:1:0
+TAGITEM:90::0:0:41:0::0:1:::1
+TAGITEM:22::1:1:0:0:TopSky plugin:0:1:::0
+TAGITEM:69::0:1:0:0:TopSky plugin:0:1:::1
+END

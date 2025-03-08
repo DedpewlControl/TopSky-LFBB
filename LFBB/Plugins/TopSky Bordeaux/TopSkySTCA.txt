@@ -1,0 +1,11 @@
+// File created for the Bordeaux FIR (LFBB)
+// Developed and maintained by Chriss Klosowski
+// Not supported by the French vACC
+//
+// To be used on the VATSIM Network only
+
+// Toulouse Blagnac
+FINALAPP:LFBO:14L
+FINALAPP:LFBO:14R
+FINALAPP:LFBO:32L
+FINALAPP:LFBO:32R

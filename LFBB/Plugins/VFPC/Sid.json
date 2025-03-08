@@ -1,0 +1,15 @@
+[
+   {
+      "icao": "LFBD",
+      "sids": {
+         "CNA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "A25"
+               ]
+            }
+         ]
+      }
+   }
+]

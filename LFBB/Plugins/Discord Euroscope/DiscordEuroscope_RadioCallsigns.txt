@@ -1,0 +1,33 @@
+LFBB_CTR Bordeaux Control
+LFBB_UN_CTR Bordeaux Control
+LFBB_US_CTR Bordeaux Control
+LFBD_APP Aquitaine Approach
+LFBD_E_APP Aquitaine Approach
+LFBH_APP La Rochelle Approach
+LFBI_APP Poitiers Approach
+LFBL_APP Limoges Approach
+LFBO_APP Toulouse Approach
+LFBO_E_APP Toulouse Approach
+LFBO_W_APP Toulouse Approach
+LFBP_APP Pyrennees Approach
+LFBZ_APP Biarritz Approach
+LFBA_TWR Agen Tower
+LFBD_TWR Merignac Tower
+LFBE_TWR Bergerac Tower
+LFBG_TWR Cognac Tower
+LFBH_TWR La Rochelle Tower
+LFBI_TWR Poitiers Tower
+LFBL_TWR Limoges Tower
+LFBO_TWR Blagnac Tower
+LFBP_TWR Pau Tower
+LFBT_TWR Lourdes Tower
+LFCL_TWR Lasbordes Tower
+LFCR_TWR Rodez Tower
+LFLX_TWR Chateauroux Tower
+LFMK_TWR Carcassonne Tower
+LFBD_GND Merignac Ground
+LFBO_GND Blagnac Ground
+LFBP_GND Pau Ground
+LFBT_GND Lourdes Ground
+LFBZ_GND Biarritz Ground
+LFBO_DEL Blagnac Delivery

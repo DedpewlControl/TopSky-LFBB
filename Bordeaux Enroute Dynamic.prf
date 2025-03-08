@@ -1,0 +1,92 @@
+Settings	sector	E:\Euroscope Sector Files\[LFXX] French FIR AIRAC 2413\LFXX-LFXX_20241128173615-241201-0001.sct
+Settings	airlines	\LFBB\ICAO\ICAO_Airlines.txt
+Settings	airports	\LFBB\ICAO\ICAO_Airports.txt
+Settings	aircraft	\LFBB\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\LFBB\NavData\icao.txt
+Settings	airways	\LFBB\NavData\airway.txt
+Settings	alias	\LFBB\Alias\alias.txt
+Settings	SettingsfileSYMBOLOGY	\LFBB\Settings\Enroute\Symbology.txt
+Settings	SettingsfileVOICE	\LFBB\Settings\Enroute\Voice.txt
+Settings	SettingsfilePROFILE	\LFBB\Settings\Enroute\Profiles.txt
+Settings	SettingsfileTAGS	\LFBB\Settings\Tags.txt
+Settings	SettingsfileSIL	\LFBB\Settings\Enroute\Lists.txt
+Settings	SettingsfileSEL	\LFBB\Settings\Enroute\Lists.txt
+Settings	SettingsfileDEP	\LFBB\Settings\Enroute\Lists.txt
+Settings	SettingsfileARR	\LFBB\Settings\Enroute\Lists.txt
+Settings	SettingsfileFP	\LFBB\Settings\Enroute\Lists.txt
+Settings	SettingsfilePLUGINS	\LFBB\Settings\Enroute\Plugins.txt
+Settings	Settingsfile	\LFBB\Settings\Enroute\General.txt
+Settings	SettingsfileSCREEN	\LFBB\Settings\Enroute\Screen.txt
+Settings	SettingsfileCONFLICT	\LFBB\Settings\Enroute\Lists.txt
+Settings	SettingsfileVCCS	\LFBB\Settings\Enroute\VCCS.txt
+Settings	SettingsfilePILOTING	\LFBB\Settings\Enroute\Lists.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	\LFBB\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\LFBB\Plugins\CCAMS\CCAMS_herver.dll
+Plugins	Plugin2	\LFBB\Plugins\CoFrance\CoFrance.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\LFBB\Plugins\Delivery Helper\DelHel.dll
+Plugins	Plugin3Display0	DelHel
+Plugins	Plugin4	\LFBB\Plugins\Discord Euroscope\DiscordEuroscope.dll
+Plugins	Plugin5	\LFBB\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin6	\LFBB\Plugins\TopSky Bordeaux\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin7	\LFBB\Plugins\VACDM\vACDM.dll
+Plugins	Plugin8	\LFBB\Plugins\VFPC\VFPC.dll
+Plugins	Plugin9	\LFBB\Plugins\Virtual Controller Helper\VCH.dll
+Plugins	Plugin10	\LFBB\Plugins\vSMR\vSMR.dll
+Plugins	Plugin10Display0	SMR radar display
+ASRFastKeys	1	\LFBB\ASR\Enroute\Bordeaux Enroute Dynamic.asr
+ASRFastKeys	2	\LFBB\ASR\SMR\Toulouse-Blagnac SMR.asr
+ASRFastKeys	3	\LFBB\ASR\SMR\Bordeaux Merignac SMR.asr
+ASRFastKeys	4	\LFBB\ASR\SMR\Bergerac SMR.asr
+ASRFastKeys	5	\LFBB\ASR\SMR\Limoges SMR.asr
+ASRFastKeys	6	\LFBB\ASR\SMR\La Rochelle SMR.asr
+ASRFastKeys	7	\LFBB\ASR\SMR\Rodez SMR.asr
+ASRFastKeys	8	\LFBB\ASR\SMR\Carcasonne SMR.asr
+RecentFiles	Recent1	\LFBB\ASR\Enroute\Bordeaux Enroute Dynamic.asr
+RecentFiles	Recent2	\LFBB\ASR\SMR\Toulouse-Blagnac SMR.asr
+RecentFiles	Recent3	\LFBB\ASR\SMR\Bordeaux Merignac SMR.asr
+RecentFiles	Recent4	\LFBB\ASR\SMR\Bergerac SMR.asr
+RecentFiles	Recent5	\LFBB\ASR\SMR\Carcasonne SMR.asr
+RecentFiles	Recent6	\LFBB\ASR\SMR\Limoges SMR.asr
+RecentFiles	Recent7	\LFBB\ASR\SMR\La Rochelle SMR.asr
+RecentFiles	Recent8	\LFBB\ASR\SMR\Rodez SMR.asr
+RecentFiles	Recent9	\LFBB\ASR\Enroute\Bordeaux Enroute Dynamic.asr
+Sounds	Sound0	\LFBB\Sounds\handoff_request.wav
+Sounds	Sound1	\LFBB\Sounds\handoff_accept.wav
+Sounds	Sound2	\LFBB\Sounds\conflict_alert.wav
+Sounds	Sound3	\LFBB\Sounds\radio_message.wav
+Sounds	Sound4	\LFBB\Sounds\private_message.wav
+Sounds	Sound5	\LFBB\Sounds\atc_message.wav
+Sounds	Sound6	\LFBB\Sounds\broadcast_message.wav
+Sounds	Sound7	\LFBB\Sounds\landline_request.wav
+Sounds	Sound8	\LFBB\Sounds\supervisor_message.wav
+Sounds	Sound9	\LFBB\Sounds\connected.wav
+Sounds	Sound10	\LFBB\Sounds\disconnected.wav
+Sounds	Sound11	\LFBB\Sounds\ongoing_request.wav
+Sounds	Sound12	\LFBB\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\LFBB\Sounds\ongoing_refused.wav
+Sounds	Sound14	\LFBB\Sounds\ongoing_manual.wav
+Sounds	Sound15	\LFBB\Sounds\new_atis.wav
+Sounds	Sound16	\LFBB\Sounds\handoff_refused.wav
+Sounds	Sound17	\LFBB\Sounds\pointout.wav
+Sounds	Sound18	\LFBB\Sounds\startup.wav
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	6
+LastSession	tovatsim	1
+LastSession	range	275
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	server	AUTOMATIC
+LastSession	callsign	<INITIALS>_OBS
+LastSession	atis2	French vACC Observer
+LastSession	atis3	vACC Info - vatsim.fr
+LastSession	atis4	Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+LastSession	atis_freq3	118000
+LastSession	atis_freq4	118000
+TeamSpeakVccs	TsVccsMiniControlX	116
+TeamSpeakVccs	TsVccsMiniControlY	44

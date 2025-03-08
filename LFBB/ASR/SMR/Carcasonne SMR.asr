@@ -1,0 +1,100 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:E:\Euroscope Sector Files\[LFXX] French FIR AIRAC 2413\LFXX-LFXX_20241128173615-241201-0001.sct
+SECTORTITLE:LFXX-LFXX_20241128173615-241201-0001.sct
+Free Text:LFBE Gates\A1:freetext
+Free Text:LFBE Gates\A2:freetext
+Free Text:LFBE Gates\A3:freetext
+Free Text:LFBE Gates\A4:freetext
+Free Text:LFBE Gates\ACB:freetext
+Free Text:LFBE Gates\Air CD:freetext
+Free Text:LFBE Gates\B1:freetext
+Free Text:LFBE Gates\B2:freetext
+Free Text:LFBE Gates\C1:freetext
+Free Text:LFBE Gates\C2:freetext
+Free Text:LFBE Gates\C3:freetext
+Free Text:LFBE Gates\D1:freetext
+Free Text:LFBE Gates\D2:freetext
+Free Text:LFBE Gates\D3:freetext
+Free Text:LFBE Gates\D31:freetext
+Free Text:LFBE Gates\D4:freetext
+Free Text:LFBE Gates\Hangars:freetext
+Free Text:LFBE Gates\P-Aviation Commerciale:freetext
+Free Text:LFBE Gates\P-Aviation Generale:freetext
+Free Text:LFBE Gates\RFFS:freetext
+Free Text:LFBE Gates\Terminal:freetext
+Free Text:LFBE Gates\TWR:freetext
+Free Text:LFBE Taxiways\A:freetext
+Free Text:LFBE Taxiways\B:freetext
+Free Text:LFMK Gates\1:freetext
+Free Text:LFMK Gates\2:freetext
+Free Text:LFMK Gates\3:freetext
+Free Text:LFMK Gates\4:freetext
+Free Text:LFMK Gates\A:freetext
+Free Text:LFMK Gates\B:freetext
+Free Text:LFMK Gates\Bretelle AVGAS:freetext
+Free Text:LFMK Gates\Hangars:freetext
+Free Text:LFMK Gates\P Aviation Generale:freetext
+Free Text:LFMK Gates\P Commercial:freetext
+Free Text:LFMK Gates\P ENAC:freetext
+Free Text:LFMK Gates\P Helicoptere:freetext
+Free Text:LFMK Gates\Pelicandrome:freetext
+Free Text:LFMK Gates\Terminal:freetext
+Free Text:LFMK Gates\TWR:freetext
+Free Text:LFMK Taxiways\A:freetext
+Free Text:LFMK Taxiways\B:freetext
+Free Text:LFMK Taxiways\B1:freetext
+Free Text:LFMK Taxiways\C:freetext
+Free Text:LFMK Taxiways\D:freetext
+Free Text:LFMK Taxiways\E:freetext
+Free Text:LFMK Taxiways\F:freetext
+Free Text:LFMK Taxiways\T1:freetext
+Free Text:LFMK Taxiways\T2:freetext
+Free Text:LFMK Taxiways\T3:freetext
+Free Text:LFMK Taxiways\T4:freetext
+Free Text:LFMK Taxiways\T5:freetext
+Free Text:LFMK Taxiways\T6:freetext
+Geo:LFMK Groundlayout Carcassonne:
+Regions:LFMK AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:357.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:43.207513:2.285637:43.224426:2.329287
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFMK
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:972
+PLUGIN:vSMR:SRW1BottomRightY:266
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:50
+PLUGIN:vSMR:SRW1OffsetY:-33
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:580
+PLUGIN:vSMR:SRW1TopLeftY:139
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:<INITIALS>_OBS:275:0
+ATIS2:French vACC Observer
+ATIS3:vACC Info - vatsim.fr
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBB_CTR:400:6
+ATIS2:"Bordeaux Control" - CPDLC FL195+ [LFBB]
+ATIS3:Check out my coverage - vatglasses.uk
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/1306415
+PROFILE:LFBB_UN_CTR:400:6
+ATIS2:"Bordeaux Control" - CPDLC FL195+ [LFBB]
+ATIS3:Check out my coverage - vatglasses.uk
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBB_US_CTR:400:6
+ATIS2:"Bordeaux Control" - CPDLC FL195+ [LFBB]
+ATIS3:Check out my coverage - vatglasses.uk
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+END

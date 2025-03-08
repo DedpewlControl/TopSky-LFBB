@@ -1,0 +1,1369 @@
+{
+    "LFBA": {
+        "elevation": 204,
+        "sids": {
+            "AGN": {
+                "cfl": 2500,
+                "rwys": {
+                    "29": {
+                        "jet_dep": "AGN3W",
+                        "prop_dep": "AGN3W",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    }
+                }
+            },
+            "PERIG": {
+                "cfl": 2500,
+                "rwys": {
+                    "29": {
+                        "jet_dep": "PERIG3W",
+                        "prop_dep": "PERIG3W",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    }
+                }
+            }
+        }
+    },
+    "LFBD": {
+        "elevation": 166,
+        "sids": {
+            "CNA": {
+                "cfl": 7000,
+                "rwys": {
+                    "05": {
+                        "jet_dep": "CNA6Q",
+                        "prop_dep": "CNA6Q",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "11": {
+                        "jet_dep": "CNA6E",
+                        "prop_dep": "CNA6E",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "23": {
+                        "jet_dep": "CNA6P",
+                        "prop_dep": "CNA6P",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "CNA6R",
+                        "prop_dep": "CNA6R",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "OBLOC": {
+                "cfl": 7000,
+                "rwys": {
+                    "05": {
+                        "jet_dep": "OBLOC8Q",
+                        "prop_dep": "OBLOC8Z",
+                        "cfl": 7000,
+                        "cfl_prop": 4000
+                    },
+                    "11": {
+                        "jet_dep": "OBLOC6E",
+                        "prop_dep": "OBLOC6E",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "23": {
+                        "jet_dep": "OBLOC6P",
+                        "prop_dep": "OBLOC6P",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "OBLOC6R",
+                        "prop_dep": "OBLOC6R",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "ROYAN": {
+                "cfl": 7000,
+                "rwys": {
+                    "05": {
+                        "jet_dep": "ROYAN8Q",
+                        "prop_dep": "ROYAN6Z",
+                        "cfl": 7000,
+                        "cfl_prop": 4000
+                    },
+                    "11": {
+                        "jet_dep": "ROYAN7A",
+                        "prop_dep": "ROYAN7A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "23": {
+                        "jet_dep": "ROYAN6P",
+                        "prop_dep": "ROYAN6P",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "ROYAN6RR",
+                        "prop_dep": "ROYAN6RR",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "VAVIX": {
+                "cfl": 7000,
+                "rwys": {
+                    "05": {
+                        "jet_dep": "VAVIX6Q",
+                        "prop_dep": "VAVIX6Z",
+                        "cfl": 7000,
+                        "cfl_prop": 4000
+                    },
+                    "11": {
+                        "jet_dep": "VAVIX6E",
+                        "prop_dep": "VAVIX6E",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "23": {
+                        "jet_dep": "VAVIX6P",
+                        "prop_dep": "VAVIX6A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "VAVIX6R",
+                        "prop_dep": "VAVIX6W",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            }
+        }
+    },
+    "LFBE": {
+        "elevation": 172,
+        "sids": {
+            "BUGUS": {
+                "cfl": 2500,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "BUGUS8E",
+                        "prop_dep": "BUGUS8E",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    },
+                    "27": {
+                        "jet_dep": "BUGUS8W",
+                        "prop_dep": "BUGUS8W",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    }
+                }
+            },
+            "SECHE": {
+                "cfl": 2500,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "SECHE8E",
+                        "prop_dep": "SECHE8E",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    },
+                    "27": {
+                        "jet_dep": "SECHE8W",
+                        "prop_dep": "SECHE8W",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    }
+                }
+            },
+            "VELIN": {
+                "cfl": 2500,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "VELIN8E",
+                        "prop_dep": "VELIN8E",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    },
+                    "27": {
+                        "jet_dep": "VELIN8W",
+                        "prop_dep": "VELIN8W",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    }
+                }
+            },
+            "TLF": {
+                "cfl": 3000,
+                "rwys": {
+                    "11": {
+                        "jet_dep": "TLF2A",
+                        "prop_dep": "TLF2A",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            }
+        }
+    },
+    "LFBF": {
+        "elevation": 535,
+        "sids": {
+            "AGN": {
+                "cfl": 3000,
+                "rwys": {
+                    "11": {
+                        "jet_dep": "AGN2E",
+                        "prop_dep": "AGN2E",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "29": {
+                        "jet_dep": "AGN2W",
+                        "prop_dep": "AGN2W",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            },
+            "AUCHE": {
+                "cfl": 3500,
+                "rwys": {
+                    "11": {
+                        "jet_dep": "AUCHE2E",
+                        "prop_dep": "AUCHE2E",
+                        "cfl": 3500,
+                        "cfl_prop": 3500
+                    },
+                    "29": {
+                        "jet_dep": "AUCHE2W",
+                        "prop_dep": "AUCHE2W",
+                        "cfl": 3500,
+                        "cfl_prop": 3500
+                    }
+                }
+            },
+            "SURAS": {
+                "cfl": 3000,
+                "rwys": {
+                    "11": {
+                        "jet_dep": "SURAS2E",
+                        "prop_dep": "SURAS2E",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "29": {
+                        "jet_dep": "SURAS2W",
+                        "prop_dep": "SURAS2W",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            },
+            "TLF": {
+                "cfl": 3000,
+                "rwys": {
+                    "11": {
+                        "jet_dep": "TLF2A",
+                        "prop_dep": "TLF2A",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            }
+        }
+    },
+    "LFBH": {
+        "elevation": 74,
+        "sids": {
+            "LUSON": {
+                "cfl": 5000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "LUSON6E",
+                        "prop_dep": "LUSON6E",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    },
+                    "27": {
+                        "jet_dep": "LUSON6W",
+                        "prop_dep": "LUSON6W",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    }
+                }
+            },
+            "MAREN": {
+                "cfl": 5000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "MAREN6E",
+                        "prop_dep": "MAREN6E",
+                        "cfl": 2500,
+                        "cfl_prop": 2500
+                    },
+                    "27": {
+                        "jet_dep": "MAREN6W",
+                        "prop_dep": "MAREN6W",
+                        "cfl": 5000,
+                        "cfl_prop": 5000
+                    }
+                }
+            }
+        }
+    },
+    "LFBI": {
+        "elevation": 423,
+        "sids": {
+            "ABSIE": {
+                "cfl": 3000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "ABSIE6T",
+                        "prop_dep": "ABSIE6T",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "21": {
+                        "jet_dep": "ABSIE6V",
+                        "prop_dep": "ABSIE6S",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            },
+            "BALAN": {
+                "cfl": 3000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "BALAN6T",
+                        "prop_dep": "BALAN6N",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "27": {
+                        "jet_dep": "BALAN6V",
+                        "prop_dep": "BALAN6S",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            },
+            "GINON": {
+                "cfl": 3000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "GINON6T",
+                        "prop_dep": "GINON6N",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "27": {
+                        "jet_dep": "GINON6V",
+                        "prop_dep": "GINON6S",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            },
+            "OLINO": {
+                "cfl": 3000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "OLINO6T",
+                        "prop_dep": "OLINO6T",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "27": {
+                        "jet_dep": "OLINO6V",
+                        "prop_dep": "OLINO6V",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            },
+            "OMARI": {
+                "cfl": 3000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "OMARI6T",
+                        "prop_dep": "OMARI6T",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "27": {
+                        "jet_dep": "OMARI6V",
+                        "prop_dep": "OMARI6V",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            },
+            "VERAS": {
+                "cfl": 3000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "VERAS6T",
+                        "prop_dep": "VERAS6N",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    },
+                    "27": {
+                        "jet_dep": "VERAS6V",
+                        "prop_dep": "VERAS6S",
+                        "cfl": 3000,
+                        "cfl_prop": 3000
+                    }
+                }
+            }
+        }
+    },
+    "LFBL": {
+        "elevation": 1300,
+        "sids": {
+            "BALAN": {
+                "cfl": 7000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "BALAN3A",
+                        "prop_dep": "BALAN3A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "21": {
+                        "jet_dep": "BALAN3B",
+                        "prop_dep": "BALAN3B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "LARON": {
+                "cfl": 7000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "LARON3A",
+                        "prop_dep": "LARON3A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "21": {
+                        "jet_dep": "LARON3B",
+                        "prop_dep": "LARON3B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "MAKOX": {
+                "cfl": 7000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "MAKOX3A",
+                        "prop_dep": "MAKOX3A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "NORON": {
+                "cfl": 7000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "NORON3A",
+                        "prop_dep": "NORON3A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "PERIG": {
+                "cfl": 7000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "PERID3A",
+                        "prop_dep": "PERID3A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            }
+        }
+    },
+    "LFBO": {
+        "elevation": 499,
+        "sids": {
+            "GAI": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "GAI6B",
+                        "prop_dep": "GAI6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "GAI6A",
+                        "prop_dep": "GAI6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "GAI6B",
+                        "prop_dep": "GAI6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "GAI6A",
+                        "prop_dep": "GAI6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "AMOLO": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "AMOLO6B",
+                        "prop_dep": "AMOLO6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "AMOLO6A",
+                        "prop_dep": "AMOLO6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "AMOLO6B",
+                        "prop_dep": "AMOLO6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "AMOLO6A",
+                        "prop_dep": "AMOLO6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "MEN": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "MEN6B",
+                        "prop_dep": "MEN6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "MEN6A",
+                        "prop_dep": "MEN6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "MEN6B",
+                        "prop_dep": "MEN6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "MEN6A",
+                        "prop_dep": "MEN6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "FINOT": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "FINOT6B",
+                        "prop_dep": "FINOT6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "FINOT6A",
+                        "prop_dep": "FINOT6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "FINOT6B",
+                        "prop_dep": "FINOT6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "FINOT6A",
+                        "prop_dep": "FINOT6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "PPG": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "PPG6B",
+                        "prop_dep": "",
+                        "cfl": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "PPG6A",
+                        "prop_dep": "",
+                        "cfl": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "PPG6B",
+                        "prop_dep": "",
+                        "cfl": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "PPG6A",
+                        "prop_dep": "",
+                        "cfl": 7000
+                    }
+                }
+            },
+            "GAUDE": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "GAUDE6B",
+                        "prop_dep": "GAUDE6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "GAUDE6A",
+                        "prop_dep": "GAUDE6A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "GAUDE6B",
+                        "prop_dep": "GAUDE6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "GAUDE6A",
+                        "prop_dep": "GAUDE6A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "LMB": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "LMB6B",
+                        "prop_dep": "LMB6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "LMB6A",
+                        "prop_dep": "LMB6A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "LMB6B",
+                        "prop_dep": "LMB6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "LMB6A",
+                        "prop_dep": "LMB6A",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "LACOU": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "LACOU6B",
+                        "prop_dep": "LACOU6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "LACOU6A",
+                        "prop_dep": "LACOU6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "LACOU6B",
+                        "prop_dep": "LACOU6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "LACOU6A",
+                        "prop_dep": "LACOU6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "RIBOU": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "RIBOU6B",
+                        "prop_dep": "RIBOU6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "RIBOU6A",
+                        "prop_dep": "RIBOU6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "RIBOU6B",
+                        "prop_dep": "RIBOU6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "RIBOU6A",
+                        "prop_dep": "RIBOU6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "FISTO": {
+                "cfl": 7000,
+                "rwys": {
+                    "32R": {
+                        "jet_dep": "FISTO6B",
+                        "prop_dep": "FISTO6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14L": {
+                        "jet_dep": "FISTO6A",
+                        "prop_dep": "FISTO6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "32L": {
+                        "jet_dep": "FISTO6B",
+                        "prop_dep": "FISTO6B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "14R": {
+                        "jet_dep": "FISTO6A",
+                        "prop_dep": "FISTO6H",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            }
+        }
+    },
+    "LFBP": {
+        "elevation": 616,
+        "sids": {
+            "SOVOS": {
+                "cfl": 10000,
+                "rwys": {
+                    "13": {
+                        "jet_dep": "SOVOS2D",
+                        "prop_dep": "SOVOS2E",
+                        "cfl": 10000,
+                        "cfl_prop": 10000
+                    },
+                    "31": {
+                        "jet_dep": "SOVOS2V",
+                        "prop_dep": "SOVOS2W",
+                        "cfl": 10000,
+                        "cfl_prop": 10000
+                    }
+                }
+            },
+            "USAKU": {
+                "cfl": 10000,
+                "rwys": {
+                    "13": {
+                        "jet_dep": "USAKU2D",
+                        "prop_dep": "USAKU2E",
+                        "cfl": 10000,
+                        "cfl_prop": 10000
+                    },
+                    "31": {
+                        "jet_dep": "USAKU2V",
+                        "prop_dep": "USAKU2W",
+                        "cfl": 10000,
+                        "cfl_prop": 10000
+                    }
+                }
+            }
+        }
+    },
+    "LFBT": {
+        "elevation": 1260,
+        "sids": {
+            "LMB": {
+                "cfl": 13000,
+                "rwys": {
+                    "02": {
+                        "jet_dep": "LMB2M",
+                        "pro_dep": "LMB2N",
+                        "cfl": 3500,
+                        "cfl_prop": 3500
+                    },
+                    "20": {
+                        "jet_dep": "LMB2S",
+                        "pro_dep": "LMB2S",
+                        "cfl": 12500,
+                        "cfl_prop": 12500
+                    }
+                }
+            },
+            "PU": {
+                "cfl": 13000,
+                "rwys": {
+                    "20": {
+                        "jet_dep": "PU2R",
+                        "pro_dep": "PU2S",
+                        "cfl": 12500,
+                        "cfl_prop": 12500
+                    }
+                }
+            },
+            "TOU": {
+                "cfl": 13000,
+                "rwys": {
+                    "20": {
+                        "jet_dep": "TOU2R",
+                        "pro_dep": "TOU2S",
+                        "cfl": 13000,
+                        "cfl_prop": 13000
+                    }
+                }
+            },
+            "USAKU": {
+                "cfl": 13000,
+                "rwys": {
+                    "02": {
+                        "jet_dep": "USAKU2M",
+                        "pro_dep": "USAKU2N",
+                        "cfl": 3500,
+                        "cfl_prop": 3500
+                    },
+                    "20": {
+                        "jet_dep": "USAKU2R",
+                        "pro_dep": "USAKU2S",
+                        "cfl": 12500,
+                        "cfl_prop": 12500
+                    }
+                }
+            }
+        }
+    },
+    "LFBU": {
+        "elevation": 436,
+        "sids": {
+            "CNA": {
+                "cfl": 2800,
+                "rwys": {
+                    "10": {
+                        "jet_dep": "CNA2E",
+                        "pro_dep": "CNA2E",
+                        "cfl": 2800,
+                        "cfl_prop": 2800
+                    },
+                    "28": {
+                        "jet_dep": "CNA2W",
+                        "pro_dep": "CNA2W",
+                        "cfl": 2800,
+                        "cfl_prop": 2800
+                    }
+                }
+            },
+            "LMG": {
+                "cfl": 2800,
+                "rwys": {
+                    "10": {
+                        "jet_dep": "LMG2E",
+                        "pro_dep": "LMG2E",
+                        "cfl": 2800,
+                        "cfl_prop": 2800
+                    },
+                    "28": {
+                        "jet_dep": "LMG2W",
+                        "pro_dep": "LMG2W",
+                        "cfl": 2800,
+                        "cfl_prop": 2800
+                    }
+                }
+            },
+            "NORON": {
+                "cfl": 2800,
+                "rwys": {
+                    "10": {
+                        "jet_dep": "NORON2E",
+                        "pro_dep": "NORON2E",
+                        "cfl": 2800,
+                        "cfl_prop": 2800
+                    },
+                    "28": {
+                        "jet_dep": "NORON2W",
+                        "pro_dep": "NORON2W",
+                        "cfl": 2800,
+                        "cfl_prop": 2800
+                    }
+                }
+            }
+        }
+    },
+    "LFBZ": {
+        "elevation": 245,
+        "sids": {
+            "SOSTO": {
+                "cfl": 7000,
+                "rwys": {
+                    "27": {
+                        "jet_dep": "SOSTO2F",
+                        "cfl": 7000,
+                        "pro_dep": "SOSTO2F",
+                        "cfl_prop": 7000
+                    },
+                    "09": {
+                        "jet_dep": "SOSTO2D",
+                        "cfl": 7000,
+                        "pro_dep": "SOSTO2D",
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "SOVOS": {
+                "cfl": 7000,
+                "rwys": {
+                    "27": {
+                        "jet_dep": "SOVOS2F",
+                        "cfl": 7000,
+                        "pro_dep": "SOVOS2F",
+                        "cfl_prop": 7000
+                    },
+                    "09": {
+                        "jet_dep": "SOVOS2D",
+                        "cfl": 7000,
+                        "pro_dep": "SOVOS2D",
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "VAVIX": {
+                "cfl": 7000,
+                "rwys": {
+                    "27": {
+                        "jet_dep": "VAVIX2F",
+                        "cfl": 7000,
+                        "pro_dep": "VAVIX2F",
+                        "cfl_prop": 7000
+                    },
+                    "09": {
+                        "jet_dep": "VAVIX2D",
+                        "cfl": 7000,
+                        "pro_dep": "VAVIX2D",
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "DONOS": {
+                "cfl": 8000,
+                "rwys": {
+                    "27": {
+                        "jet_dep": "DONOS2F",
+                        "cfl": 8000,
+                        "pro_dep": "DONOS2F",
+                        "cfl_prop": 8000
+                    },
+                    "09": {
+                        "jet_dep": "DONOS2D",
+                        "cfl": 8000,
+                        "pro_dep": "DONOS2D",
+                        "cfl_prop": 8000
+                    }
+                }
+            },
+            "SSN": {
+                "cfl": 8000,
+                "rwys": {
+                    "27": {
+                        "jet_dep": "SSN2F",
+                        "cfl": 8000,
+                        "pro_dep": "SSN2F",
+                        "cfl_prop": 8000
+                    },
+                    "09": {
+                        "jet_dep": "SSN2D",
+                        "cfl": 8000,
+                        "pro_dep": "SSN2D",
+                        "cfl_prop": 8000
+                    }
+                }
+            }
+        }
+    },
+    "LFCK": {
+        "elevation": 785,
+        "sids": {
+            "AFRIC": {
+                "cfl": 6000,
+                "rwys": {
+                    "14": {
+                        "jet_dep": "AFRIC4M",
+                        "cfl": 6000,
+                        "pro_dep": "AFRIC4M",
+                        "cfl_prop": 6000
+                    }
+                }
+            }
+        }
+    },
+    "LFCR": {
+        "elevation": 1909,
+        "sids": {
+            "BASLI": {
+                "cfl": 9000,
+                "rwys": {
+                    "13": {
+                        "jet_dep": "BASLI6E",
+                        "pro_dep": "BASLI6E",
+                        "cfl": 9000,
+                        "cfl_prop": 9000
+                    },
+                    "31": {
+                        "jet_dep": "BASLI6W",
+                        "pro_dep": "BASLI6W",
+                        "cfl": 9000,
+                        "cfl_prop": 9000
+                    }
+                }
+            },
+            "ESISI": {
+                "cfl": 6500,
+                "rwys": {
+                    "13": {
+                        "jet_dep": "ESISI6E",
+                        "pro_dep": "ESISI6E",
+                        "cfl": 6500,
+                        "cfl_prop": 6500
+                    },
+                    "31": {
+                        "jet_dep": "ESISI6W",
+                        "pro_dep": "ESISI6W",
+                        "cfl": 6500,
+                        "cfl_prop": 6500
+                    }
+                }
+            },
+            "GAI": {
+                "cfl": 6500,
+                "rwys": {
+                    "13": {
+                        "jet_dep": "GAI6E",
+                        "pro_dep": "GAI6E",
+                        "cfl": 6500,
+                        "cfl_prop": 6500
+                    },
+                    "31": {
+                        "jet_dep": "GAI6W",
+                        "pro_dep": "GAI6W",
+                        "cfl": 6500,
+                        "cfl_prop": 6500
+                    }
+                }
+            },
+            "MEN": {
+                "cfl": 6500,
+                "rwys": {
+                    "13": {
+                        "jet_dep": "MEN6E",
+                        "pro_dep": "MEN6E",
+                        "cfl": 6500,
+                        "cfl_prop": 6500
+                    },
+                    "31": {
+                        "jet_dep": "MEN6W",
+                        "pro_dep": "MEN6W",
+                        "cfl": 6500,
+                        "cfl_prop": 6500
+                    }
+                }
+            },
+            "MINPA": {
+                "cfl": 9000,
+                "rwys": {
+                    "13": {
+                        "jet_dep": "MINPA6E",
+                        "pro_dep": "MINPA6E",
+                        "cfl": 9000,
+                        "cfl_prop": 9000
+                    },
+                    "31": {
+                        "jet_dep": "MINPA6W",
+                        "pro_dep": "MINPA6W",
+                        "cfl": 9000,
+                        "cfl_prop": 9000
+                    }
+                }
+            }
+        }
+    },
+    "LFDN": {
+        "elevation": 60,
+        "sids": {
+            "MAREN": {
+                "cfl": 2000,
+                "rwys": {
+                    "12": {
+                        "jet_dep": "MAREN4J",
+                        "pro_dep": "MAREN4J",
+                        "cfl": 2000,
+                        "cfl_prop": 2000
+                    },
+                    "30": {
+                        "jet_dep": "MAREN4V",
+                        "pro_dep": "MAREN4V",
+                        "cfl": 2000,
+                        "cfl_prop": 2000
+                    }
+                }
+            },
+            "OLERO": {
+                "cfl": 2000,
+                "rwys": {
+                    "12": {
+                        "jet_dep": "OLERO4J",
+                        "pro_dep": "OLERO4J",
+                        "cfl": 2000,
+                        "cfl_prop": 2000
+                    },
+                    "30": {
+                        "jet_dep": "OLERO4V",
+                        "pro_dep": "OLERO4V",
+                        "cfl": 2000,
+                        "cfl_prop": 2000
+                    }
+                }
+            }
+        }
+    },
+    "LFLX": {
+        "elevation": 529,
+        "sids": {
+            "ETAMO": {
+                "cfl": 4000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "ETAMO8J",
+                        "pro_dep": "ETAMO8J",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "21": {
+                        "jet_dep": "ETAMO8K",
+                        "pro_dep": "ETAMO8K",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    }
+                }
+            },
+            "GUSON": {
+                "cfl": 4000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "GUSON8J",
+                        "pro_dep": "GUSON8J",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "21": {
+                        "jet_dep": "GUSON8K",
+                        "pro_dep": "GUSON8K",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    }
+                }
+            },
+            "OLINO": {
+                "cfl": 4000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "OLINO8J",
+                        "pro_dep": "OLINO8J",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "21": {
+                        "jet_dep": "OLINO8K",
+                        "pro_dep": "OLINO8K",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    }
+                }
+            },
+            "SOPIL": {
+                "cfl": 4000,
+                "rwys": {
+                    "03": {
+                        "jet_dep": "SOPIL8J",
+                        "pro_dep": "SOPIL8J",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    },
+                    "21": {
+                        "jet_dep": "SOPIL8K",
+                        "pro_dep": "SOPIL8K",
+                        "cfl": 4000,
+                        "cfl_prop": 4000
+                    }
+                }
+            }
+        }
+    },
+    "LFMK": {
+        "elevation": 434,
+        "sids": {
+            "FJR": {
+                "cfl": 6000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "FJR3E",
+                        "pro_dep": "FJR3E",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    },
+                    "27": {
+                        "jet_dep": "FJR3W",
+                        "pro_dep": "FJR3W",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    }
+                }
+            },
+            "GALDO": {
+                "cfl": 6000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "GALDO3E",
+                        "pro_dep": "GALDO3E",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    },
+                    "27": {
+                        "jet_dep": "GALDO3W",
+                        "pro_dep": "GALDO3W",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    }
+                }
+            },
+            "MASAM": {
+                "cfl": 6000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "MASAM3E",
+                        "pro_dep": "MASAM3E",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    },
+                    "27": {
+                        "jet_dep": "MASAM3W",
+                        "pro_dep": "MASAM3W",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    }
+                }
+            },
+            "PPG": {
+                "cfl": 6000,
+                "rwys": {
+                    "09": {
+                        "jet_dep": "PPG3E",
+                        "pro_dep": "PPG3E",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    },
+                    "27": {
+                        "jet_dep": "PPG3W",
+                        "pro_dep": "PPG3W",
+                        "cfl": 6000,
+                        "cfl_prop": 6000
+                    }
+                }
+            }
+        }
+    },
+    "LFSL": {
+        "elevation": 1016,
+        "sids": {
+            "LAVRA": {
+                "cfl": 7000,
+                "rwys": {
+                    "11": {
+                        "jet_dep": "LAVRA2B",
+                        "pro_dep": "LAVRA2B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "LAVRA2C",
+                        "pro_dep": "LAVRA2C",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            },
+            "MAKOX": {
+                "cfl": 7000,
+                "rwys": {
+                    "11": {
+                        "jet_dep": "MAKOX2B",
+                        "pro_dep": "MAKOX2B",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    },
+                    "29": {
+                        "jet_dep": "MAKOX2C",
+                        "pro_dep": "MAKOX2C",
+                        "cfl": 7000,
+                        "cfl_prop": 7000
+                    }
+                }
+            }
+        }
+    }
+}

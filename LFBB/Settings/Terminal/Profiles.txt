@@ -1,0 +1,46 @@
+PROFILE
+PROFILE:<INITIALS>_OBS:275:0
+ATIS2:French vACC Observer
+ATIS3:vACC Info - vatsim.fr
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBD_APP:150:5
+ATIS2:"Aquitaine Approach" - DCL [LFBD]
+ATIS3:Covering LFBD + LFBE. FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBD_E_APP:150:5
+ATIS2:"Aquitaine Approach" - DCL [LFBD]
+ATIS3:Covering LFBD + LFBE. FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBH_APP:150:5
+ATIS2:"La Rochelle Approach"
+ATIS3:FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBI_APP:150:5
+ATIS2:"Poitiers Approach"
+ATIS3:Covering LFBI + LFLX. FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBL_APP:150:5
+ATIS2:"Limoges Approach"
+ATIS3:Covering LFBL + LFSL. FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBO_APP:150:5
+ATIS2:"Toulouse Approach" - DCL [LFBO]
+ATIS3:Covering LFBA/LFBF/LFBO/LFMK. FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBO_E_APP:150:5
+ATIS2:"Toulouse Approach" - DCL [LFBO]
+ATIS3:Covering LFBA/LFBF/LFBO/LFMK. FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBO_W_APP:150:5
+ATIS2:"Toulouse Approach" - DCL [LFBO]
+ATIS3:Covering LFBA/LFBF/LFBO/LFMK. FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBP_APP:150:5
+ATIS2:"Pyrennees Approach"
+ATIS3:FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+PROFILE:LFBZ_APP:150:5
+ATIS2:"Biarritz Approach"
+ATIS3:FIS/SIV Services available on request
+ATIS4:Feedback is appreciated! - vatsim.fr/fb/VOTRE_CID_ICI
+END

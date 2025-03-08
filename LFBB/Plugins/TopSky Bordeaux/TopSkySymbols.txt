@@ -1,0 +1,43 @@
+// File created for the Bordeaux FIR (LFBB)
+// Developed and maintained by Chriss Klosowski
+// Not supported by the French vACC
+//
+// To be used on the VATSIM Network only
+
+//Coasting track symbol
+SYMBOL:COASTED
+MOVETO:0:0
+
+//History dot
+SYMBOL:HISTORY
+MOVETO:0:0
+
+//Radar position symbol for PSR tracks
+SYMBOL:PRIMARY
+MOVETO:0:0
+
+//Radar position symbol for diverging PSR tracks
+SYMBOL:PRIMARY_DIV
+MOVETO:0:0
+
+//Radar position symbol for SSR(A) tracks
+SYMBOL:NODAPS
+MOVETO:0:0
+
+//Radar position symbol for diverging SSR(A) tracks
+SYMBOL:NODAPS_DIV
+MOVETO:0:0
+
+//Radar position symbol for SSR(A) tracks
+SYMBOL:DAPS
+MOVETO:0:0
+
+SYMBOL:DAPS_DIV
+MOVETO:0:0
+
+//Radar position symbol for ADSB tracks
+SYMBOL:ADSB
+MOVETO:0:0
+
+SYMBOL:ADSB_DIV
+MOVETO:0:0
